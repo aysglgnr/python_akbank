@@ -151,7 +151,7 @@ def main():
     14: Meat +14.90 ₺
     15: Onions +4.90 ₺
     16: Corn +4.90 ₺
-    * Thank you!
+    * Thank you!!
     """
 
     file.write(menu_text) #writing the menu to the file
